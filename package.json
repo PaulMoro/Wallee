@@ -1,0 +1,19 @@
+{
+  "name": "walle",
+  "version": "1.0.0",
+  "description": "Proect final pltzi Master\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Da\u001b[D\u001b[P",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulMoro/Wallee.git"
+  },
+  "author": "Paul Moro <paulmontoya15@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PaulMoro/Wallee/issues"
+  },
+  "homepage": "https://github.com/PaulMoro/Wallee#readme"
+}
