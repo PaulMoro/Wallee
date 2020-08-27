@@ -2,9 +2,9 @@
 import React from "react";
 import ReactDOM from "react-dom";
 //------------------------------ import components
-import HeaderLanding from "./components/Com--Header-landing";
+import HeaderHome from "./components/Com--Header-home";
 
 //------------------------------ import styles and images
 import "./index.scss";
 
-ReactDOM.render(<HeaderLanding />, document.getElementById("root"));
+ReactDOM.render(<HeaderHome />, document.getElementById("root"));
